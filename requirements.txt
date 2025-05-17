@@ -1,0 +1,26 @@
+
+# Core dependencies
+torch>=1.13.0
+torchvision>=0.14.0
+numpy
+opencv-python
+pandas
+matplotlib
+
+# YOLOv5-specific
+PyYAML
+scipy
+tqdm
+requests
+pillow
+seaborn
+
+# Tracker (SORT)
+filterpy
+
+# Optional - for YOLOv5 exports
+onnx
+tensorboard
+
+# Jupyter support (if needed)
+ipython
